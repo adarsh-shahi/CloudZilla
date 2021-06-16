@@ -1,0 +1,2 @@
+rootProject.name = "CloudZilla"
+include ':app'
